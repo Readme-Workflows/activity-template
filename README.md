@@ -9,16 +9,16 @@ It was made to give you an easy way to setup a Profile Readme to use.
    ![button]
 2. In the new screen, set the Repository name to your Username.
    ![repo-name]
-4. Go to the EXAMPLE.md file and click the Edit icon.
+3. Go to the EXAMPLE.md file and click the Edit icon.
    ![edit]
-5. Rename the file to README.md  
+4. Rename the file to README.md  
    Optionally can you also edit the content of the file to include your own info.
-6. Save your changes
-7. Go to `.github` and edit the `recent-activity.config.yml` file
-8. In this file, change `readme-file: ./EXAMPLE.md` to `readme-file: ./README.md`  
+5. Save your changes
+6. Go to `.github` and edit the `recent-activity.config.yml` file
+7. In this file, change `readme-file: ./EXAMPLE.md` to `readme-file: ./README.md`  
    You can also change other settings in this file. A full guide about the file's settings can be found [here][configuration]
-9. Save your changes.
-10. You're done!
+8. Save your changes.
+9. You're done!
 
 [recent-activity]: https://github.com/Readme-Workflows/recent-activity
 [configuration]: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
